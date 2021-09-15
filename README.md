@@ -1,2 +1,2 @@
 👋 Hi, I’m @vaisrl
-🌱 I’m currently learning C#, ASP.Net.Core MVC, SQL
+🌱 I’m currently learning C# and Unity
